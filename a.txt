@@ -1,1 +1,4 @@
 Some text for a.txt
+
+
+Some text from master
